@@ -1,0 +1,9 @@
+.idea/
+*.log
+*.exe
+*.env
+.env
+.DS_Store
+!testing.env
+data/*.mmdb
+data/*.BIN
